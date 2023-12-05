@@ -1,0 +1,8 @@
+ {
+      "type": "ssh",
+      "tag": "proxy",
+      "server": "decdn.4arouter.shop",
+      "server_port": 9011,
+      "user": "behi",
+      "password": "131313"
+    }
